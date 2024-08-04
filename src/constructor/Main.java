@@ -12,7 +12,8 @@ public class Main {
 
 
         //trail 2
-        Employee m = new Employee(10, 20);
+        HR m = new HR();
+
 
     }
 }
