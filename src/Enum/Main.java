@@ -44,6 +44,10 @@ public class Main {
         // we get more readability on the code
         // we get more control over what values are needed to be passed.
 
+        // A final class is a kind of class that cannot be inherited
+        // there is final keyword used in it.
+        // It is certainly not possible to extended and give something like overloading or overriding?
+
 
 
 
