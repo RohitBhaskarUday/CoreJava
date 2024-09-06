@@ -19,9 +19,9 @@ public class StackMemory {
     }
 
     // once we reach this closing parantheses the stack will get empty.
-    //the main() method goes in the stack first
-    // all the primitives and objectreferences are stored in the stack
-    // the objects are stored inside of the heap memory
+    // the main() method goes in the stack first
+    // all the primitives and object references are stored in the stack
+    // the objects are stored insideof the heap memory
     // the string literals as well are createdin the heap memory
     // then the memory test would be added on top of the scope of the main() method.
     // once it hits the closing parenthisis then the scope ends it will be deleted in lifo order
